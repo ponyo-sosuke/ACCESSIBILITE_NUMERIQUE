@@ -33,6 +33,26 @@ Les liens d'évitement facilitent l'accès au site pour les handicapés et<br>
 notamment pour les non voyants : ils leur permettent de se placer <br>
 directement à l'endroit souhaité. 
 
+Exemple et informations complémentaires :
+
+https://www.alsacreations.com/article/lire/572-Les-liens-d-evitement.html
+
+A l'origine, le lien d'évitement (skip lines en anglais) a été conçu pour<br>
+permettre de passer un regroupement de liens.
+
+Petit exemple codé :
+
+<h2 class="navhead"><a name="technologies" id="technologies">W3C A to Z</a></h2>
+
+<ul>
+   <li class="invisible">
+     <a class="navlink" title="Skip W3C A-Z" href="#news">Skip to News</a>
+   </li>
+</ul>
+
+Il permet de "zapper" et d'aller directement à l'info.
+
+
 #### Aides à la navigation : rôles ARIA des zones du document
 
 Avec l'aide technique (lecteur d'écran...) on peut se déplacer dans les pages.<br>
