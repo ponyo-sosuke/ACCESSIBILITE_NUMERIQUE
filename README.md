@@ -75,6 +75,10 @@ Freedom Scientific.<br>
 Logiciel de revue d'écran - lecteur d'écran, qui transforme un texte affiché<br>
 sur un écran en un texte oral ou un texte en braille.
 
-NVDA
+<b>NVDA</b>
+Une revue d'écrans libre et gratuite pour Microsoft Windows XP, Vista et seven.
 
-VOICE OVER
+<b>VOICEOVER</b>
+Permet aux non-voyants et malvoyants d'utiliser un ordinateur : <br>
+Apple a conçu VoiceOver, une solution intégrée à chaque Mac. Solution fiable<br>
+simple à apprendre.
