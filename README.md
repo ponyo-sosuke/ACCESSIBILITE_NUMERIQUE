@@ -42,7 +42,7 @@ permettre de passer un regroupement de liens.
 
 Petit exemple codé :
 
-<h2 class="navhead"><a name="technologies" id="technologies">W3C A to Z</a></h2>
+'''<h2 class="navhead"><a name="technologies" id="technologies">W3C A to Z</a></h2>
 
 <ul>
    <li class="invisible">
