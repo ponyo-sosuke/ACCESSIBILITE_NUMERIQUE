@@ -61,6 +61,32 @@ Ces rôles permettent de mieux structurer le document et d'aider dans la navigat
 EX : avec NVDA : NVDA + F7<br>
 Avec JAWS : CTRL + INS + ;
 
+Pour coder de façon efficace et propre en html :
+
+<script type="text/javascript">
+sap = {ui:{keycodes:{SPACE:32, ENTER:13 }}};
+//gère les clics et les événement clavier sur le lien
+function navigateLink(evt) {
+    if (evt.type=="click" ||
+        evt.keyCode == sap.ui.keycodes.SPACE ||
+        evt.keyCode == sap.ui.keycodes.ENTER) {
+        var ref = evt.target != null ? evt.target : evt.srcElement;
+        if (ref) window.open(ref.getAttribute("href"),"_blank");
+    }
+}
+</script>
+
+<body role="application">
+
+    <h3>Lien simple créé avec un <span></h3>
+    <span href="http://www.w3c.org" onkeydown="navigateLink(event)" onclick="navigateLink(event)" tabindex="0" id="link1" role="link" class="link">
+      Activez ce lien en appuyant sur la barre d’espace ou la touche Entrée
+    </span>
+</body>
+
+On peut mettre un lien avec span et définir les fonctions dans un script.
+
+   
 #### Navigation par tabulation
 
 Appuyer sur Tab et répéter jusqu'à sélectionner le lien qui nous intéresse.<br>
