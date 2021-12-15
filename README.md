@@ -64,14 +64,14 @@ Avec JAWS : CTRL + INS + ;
 Pour coder de façon efficace et propre en html :
 
 <script type="text/javascript">
-sap = {ui:{keycodes:{SPACE:32, ENTER:13 }}};
-//gère les clics et les événement clavier sur le lien
-function navigateLink(evt) {
-    if (evt.type=="click" ||
-        evt.keyCode == sap.ui.keycodes.SPACE ||
-        evt.keyCode == sap.ui.keycodes.ENTER) {
-        var ref = evt.target != null ? evt.target : evt.srcElement;
-        if (ref) window.open(ref.getAttribute("href"),"_blank");
+sap = {ui:{keycodes:{SPACE:32, ENTER:13 }}};<br>
+//gère les clics et les événement clavier sur le lien<br>
+function navigateLink(evt) {<br>
+    if (evt.type=="click" ||<br>
+        evt.keyCode == sap.ui.keycodes.SPACE ||<br>
+        evt.keyCode == sap.ui.keycodes.ENTER) {<br>
+        var ref = evt.target != null ? evt.target : evt.srcElement;<br>
+        if (ref) window.open(ref.getAttribute("href"),"_blank");<br>
     }
 }
 </script>
@@ -84,7 +84,9 @@ function navigateLink(evt) {
     </span>
 </body>
 
-On peut mettre un lien avec span et définir les fonctions dans un script.
+On peut mettre un lien avec span et définir les fonctions dans un script.<br>
+https://developer.mozilla.org/fr/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_link_role
+   
 
    
 #### Navigation par tabulation
