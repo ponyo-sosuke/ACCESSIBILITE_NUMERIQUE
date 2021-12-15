@@ -69,16 +69,16 @@ pour la rendre lisible par un mal-voyant.
 
 #### Logiciels à connaitre pour l'accessibilité numérique
 
-<b>JAWS</b> (Job Access With Speech)
+<b>JAWS</b> (Job Access With Speech)<br>
 Logiciel pour déficients visuels, sous Windows, édité par la société<br>
 Freedom Scientific.<br>
 Logiciel de revue d'écran - lecteur d'écran, qui transforme un texte affiché<br>
 sur un écran en un texte oral ou un texte en braille.
 
-<b>NVDA</b>
+<b>NVDA</b><br>
 Une revue d'écrans libre et gratuite pour Microsoft Windows XP, Vista et seven.
 
-<b>VOICEOVER</b>
+<b>VOICEOVER</b><br>
 Permet aux non-voyants et malvoyants d'utiliser un ordinateur : <br>
 Apple a conçu VoiceOver, une solution intégrée à chaque Mac. Solution fiable<br>
 simple à apprendre.
