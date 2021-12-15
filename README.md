@@ -7,7 +7,7 @@ Qu'entends-t'on par accessibilité ?<br>
 
 ### L'accessibilité numérique
 
-Depuis les années 1990, le numérique est apparu dans notre quotidien...
+Depuis les années 1990, le numérique est apparu dans notre quotidien...<br>
 petit à petit. Il a mis du temps à entrer dans nos foyers, via le minitel,<br>
 les ordinateurs dits de bureau, les logiciels de gestion, les langages<br>
 informatiques.<br>
