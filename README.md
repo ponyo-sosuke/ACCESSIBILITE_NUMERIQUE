@@ -69,7 +69,7 @@ pour la rendre lisible par un mal-voyant.
 
 #### Logiciels à connaitre pour l'accessibilité numérique
 
-JAWS (Job Access With Speech)
+<b>JAWS</b> (Job Access With Speech)
 Logiciel pour déficients visuels, sous Windows, édité par la société<br>
 Freedom Scientific.<br>
 Logiciel de revue d'écran - lecteur d'écran, qui transforme un texte affiché<br>
