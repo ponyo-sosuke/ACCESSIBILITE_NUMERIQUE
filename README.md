@@ -126,7 +126,21 @@ sur un écran en un texte oral ou un texte en braille.
 <b>NVDA</b><br>
 Une revue d'écrans libre et gratuite pour Microsoft Windows XP, Vista et seven.
 
-<b>VOICEOVER</b><br>
+<b>VOICEOVER</b>
 Permet aux non-voyants et malvoyants d'utiliser un ordinateur : <br>
 Apple a conçu VoiceOver, une solution intégrée à chaque Mac. Solution fiable<br>
 simple à apprendre.
+Il se focalise sur des mots (clés) et forme une petite loupe sur les détails<br>
+
+<b>ORCA</b>
+Lecteur d'écran gratuit, open source sous Linux qui donne accès à l'interface<br>
+graphique utilisateur par l'intermédiaire de combinaisons personnalisables<br>
+de la parole et ou en braille.
+
+<b>INFOVOX DESKTOP</b>
+Logiciel de lecture vocale du Groupe Acapela.
+
+<b>La loupe de Windows</b>
+Sous Windows, en appuyant simultanément sur la touche Fenêtre et la lettre U,<br>
+une partie de l'écran est grossie afin de permettre de mieux lire.
+   
